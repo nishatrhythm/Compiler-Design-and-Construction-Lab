@@ -15,9 +15,9 @@ Construct a complete 'Lexer' using Lex and a complete 'Parser' using C/C++ (eith
 
 ## Credits
 Special thanks to:
-- [@najnin26](https://github.com/najnin26)
-- [@fms-byte](https://github.com/fms-byte)
-- [@waliulrayhan](https://github.com/waliulrayhan)
+- [@najnin26](https://github.com/najnin26/Compiler-Lab)
+- [@fms-byte](https://github.com/fms-byte/Compiler-Design-Lab)
+- [@waliulrayhan](https://github.com/waliulrayhan/Compiler-Design-Lab)
 
 ## Installation and Usage
 Ensure you have the following tools installed:
